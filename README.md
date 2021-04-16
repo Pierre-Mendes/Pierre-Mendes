@@ -8,7 +8,7 @@
 Skills: PHP / JS / HTML / CSS / Laravel /  C# / Learning JAVA
 
 - 🔭 I’m currently working on I'm currently working for a company in the Valley Valmont group called Irriger! 
-- 🌱 I’m currently learning  🌱 I am currently in college at S.I Information Systems. 
+- 🌱 I’m currently in college at S.I Information Systems. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Pierre-Mendes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pierre-mendes-salatiel-ba9822167/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pierremendess/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ErrePi3_14R)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/pierre-mendes)  
 
