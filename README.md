@@ -20,11 +20,11 @@ Skills: PHP / JS / HTML / CSS / Laravel /  C# / Learning JAVA
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Mendes&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pierre-Mendes&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pierre-Mendes)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pierre-Mendes&show_icons=true&count_private=true)   
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pierre-Mendes)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pierre-Mendes) 
 
 ![GitHub metrics](https://metrics.lecoq.io/Pierre-Mendes)
 
