@@ -24,11 +24,8 @@ Skills: PHP / JS / HTML / CSS / Laravel /  C# / Learning JAVA
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pierre-Mendes)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pierre-Mendes)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Pierre-Mendes) 
 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pierre-Mendes)  
-
 ![Profile views](https://gpvc.arturio.dev/Pierre-Mendes)  
-
