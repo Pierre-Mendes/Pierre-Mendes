@@ -18,9 +18,7 @@ Skills: PHP / JS / HTML / CSS / Laravel /  C# / Learning JAVA
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Mendes)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pierre-Mendes&show_icons=true&count_private=true)  
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pierremendess)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pierre-Mendes&show_icons=true&count_private=true)   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pierremendess)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pierre-Mendes)  
 
