@@ -29,3 +29,4 @@ Skills: PHP / JS / HTML / CSS / Laravel /  C# / Learning JAVA
 ![GitHub metrics](https://metrics.lecoq.io/Pierre-Mendes)
 
 ![Profile views](https://gpvc.arturio.dev/Pierre-Mendes)  
+
