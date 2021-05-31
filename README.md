@@ -9,11 +9,10 @@ Skills: PHP / JS / HTML / CSS / Laravel /  C# / Learning JAVA
 
 - 🔭 I’m currently working on I'm currently working for a company in the Valley Valmont group called Irriger! 
 - 🌱 I’m currently in college at S.I Information Systems. 
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pierre-Mendes)](https://github.com/ryo-ma/github-profile-trophy)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Pierre-Mendes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pierre-mendes-salatiel-ba9822167/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pierremendess/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ErrePi3_14R)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/pierre-mendes)  
-
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pierre-Mendes)](https://github.com/ryo-ma/github-profile-trophy)
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'</a> 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pierremendess)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
