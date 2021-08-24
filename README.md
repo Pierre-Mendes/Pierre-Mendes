@@ -5,8 +5,7 @@
 
 * My name is Pierre Mendes Salatiel I am nineteen years old, I currently live in Uberaba Minas Gerais Brazil which is also my hometown. I have always liked technologies in general, when I was younger my interest was in games... And when I turned 15 years old I started to be curious about what was running behind websites and the games I played. My mother enrolled me in a Computer Graphics technical course where I learned how the process of creating games was, I also had my first contact with programming in the C# language and there I fell in love with programming and started to study outside some WEB languages on the side. Currently I am a backend programmer and student on the side. Currently I am a backend programmer and student  
 
-Skills: PHP / JavaScript / HTML / CSS / Bootstrap / Jquery / Laravel /  C# / JAVA / Flutter / Dart / Node.JS / Vue.JS
-
+Skills: PHP / JavaScript / HTML / CSS / Bootstrap / Jquery / Laravel /  C# / JAVA / Flutter / Dart / Vue.JS
 - 🔭 I’m currently working on I'm currently working for a company in the Valley Valmont group called Irriger! 
 - 🌱 I’m currently in college at S.I Information Systems. 
 
