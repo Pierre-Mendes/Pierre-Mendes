@@ -7,7 +7,7 @@
 
 Skills: PHP / JavaScript / HTML / CSS / Bootstrap / Jquery / Laravel /  C# / JAVA / Flutter / Dart / Vue.JS
 - 🔭 I’m currently working on 
-- 🌱 I'm currently working for a company Valmont.  
+- 🌱 I'm currently working for a company Eship WMS.  
 - 🌱 I’m currently in college at S.I Information Systems. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Pierre-Mendes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/pierre-mendes-salatiel-ba9822167/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/pierremendess/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/ErrePi3_14R)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/pierre-mendes)  
