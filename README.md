@@ -29,11 +29,12 @@
 
 * My name is Pierre Mendes Salatiel I am twenty years old, I currently live in Uberaba Minas Gerais Brazil which is also my hometown. I have always liked technologies in general, when I was younger my interest was in games... And when I turned 15 years old I started to be curious about what was running behind websites and the games I played. My mother enrolled me in a Computer Graphics technical course where I learned how the process of creating games was, I also had my first contact with programming in the C# language and there I fell in love with programming and started to study outside some WEB languages on the side. Currently I am a backend programmer and student on the side. 
 
-<p>
-<div>
   - 🌱 I'm currently working on the companies Zallpy | Unicred.  
   - 🌱 I’m currently in college at S.I Information Systems. 
-  
+
+<p>
+<div>
+
   ## Skills:
 
   ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=ffffff)
