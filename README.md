@@ -1,5 +1,3 @@
-![Cupom VIP (1)](https://user-images.githubusercontent.com/63386178/114952729-41d30f00-9e2d-11eb-958d-4d86c5298da5.png)
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Pierre-Mendes) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/pierre-mendes)
 
 <p>
