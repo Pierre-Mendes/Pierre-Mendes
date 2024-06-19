@@ -62,5 +62,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pierre-Mendes&show_icons=true&count_private=true&theme=react)   
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pierre-Mendes) 
-
-![GitHub metrics](https://metrics.lecoq.io/Pierre-Mendes)
