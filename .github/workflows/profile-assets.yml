@@ -26,7 +26,11 @@ jobs:
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Needs a classic PAT with `read:user` + `public_repo` scopes,
+          # stored as the TROPHY_TOKEN repo secret — the default
+          # GITHUB_TOKEN lacks the OAuth scope this action's GraphQL
+          # query requires.
+          token: ${{ secrets.TROPHY_TOKEN }}
           username: ${{ github.repository_owner }}
           file: dist/trophy.svg
           theme: react
