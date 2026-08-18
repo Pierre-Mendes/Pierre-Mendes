@@ -7,6 +7,12 @@ on:
   push:
     branches:
       - master
+    paths-ignore:
+      # This job commits github-metrics.svg to master itself; without this,
+      # its own commit re-triggers the workflow and the second run fails
+      # trying to re-create a file that already exists ("sha wasn't
+      # supplied").
+      - github-metrics.svg
 
 jobs:
   github-metrics:
