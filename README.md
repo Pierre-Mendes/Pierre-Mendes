@@ -97,7 +97,7 @@ Today I'm a **Pleno III (mid-level) Software Engineer** with **4+ years of exper
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pierre-Mendes&theme=react-dark&hide_border=true" alt="Contribution activity graph" width="100%" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pierre-Mendes&theme=react&column=4&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://raw.githubusercontent.com/Pierre-Mendes/Pierre-Mendes/output/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
