@@ -23,37 +23,48 @@
 </p>
 
 ### Hello there 👋🏾, my name is Pierre
-## I am Developer Backend and student!
 
-* My name is Pierre Mendes Salatiel I am twenty years old, I currently live in Uberaba Minas Gerais Brazil which is also my hometown. I have always liked technologies in general, when I was younger my interest was in games... And when I turned 15 years old I started to be curious about what was running behind websites and the games I played. My mother enrolled me in a Computer Graphics technical course where I learned how the process of creating games was, I also had my first contact with programming in the C# language and there I fell in love with programming and started to study outside some WEB languages on the side. Currently I am a backend programmer and student on the side. 
+## Backend / Full-Stack Software Engineer | PHP · Laravel · Node.js
 
-  - 🌱 I'm currently working on the companies Objective | Ebanx.  
-  - 🌱 I’m currently in college at S.I Information Systems. 
+I'm Pierre Mendes Salatiel, a Software Engineer based in Uberaba, Minas Gerais, Brazil. I've always been drawn to technology — as a kid it was games, and at 15 a Computer Graphics technical course gave me my first taste of programming in C#. That's where I fell in love with building software, and I've been growing ever since.
+
+Today I have 4+ years of experience in backend and full-stack development, specialized in PHP (Laravel, SlimPHP) and scalable architectures for high-complexity, high-transaction-volume systems — spanning payment platforms, corporate CRM, WMS and internal process automation.
+
+  - 🏦 Currently working as a **Backend Developer** at **EBANX** (via Objective), on the Platform team building merchant lifecycle automations in a microservices architecture.
+  - 🎓 Also a **university lecturer** at **UniFACTHUS**, teaching Data Structures, Databases and Agile Methodologies.
+  - 📚 Postgraduate in Software Engineering (FAMEESP) and Bachelor in Information Systems (FACTHUS).
+  - 🌱 Always exploring new tools and workflows — including AI-assisted development (Cursor, Claude Code) — to ship faster without giving up quality.
 
 <p>
 <div>
 
   ## Skills:
 
-  ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=ffffff)
-  ![Apache](https://img.shields.io/badge/Apache-333333?style=flat&logo=apache&logoColor=CA2136)
-  ![Nginx](https://img.shields.io/badge/Nginx-333333?style=flat&logo=Nginx&logoColor=009639)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
-  ![Vue.JS](https://img.shields.io/badge/-Vue.JS-333333?style=flat&logo=Vue.JS)
-  ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=Vuetify)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![SlimPHP](https://img.shields.io/badge/-SlimPHP-333333?style=flat&logo=php&logoColor=777BB4)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
+  ![Vue.JS](https://img.shields.io/badge/-Vue.JS-333333?style=flat&logo=Vue.JS)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
+  ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka)
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis&logoColor=DC382D)
+  ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops&logoColor=0078D7)
+  ![Datadog](https://img.shields.io/badge/-Datadog-333333?style=flat&logo=datadog&logoColor=632CA6)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
+  ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=ffffff)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![jQuery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jQuery&logoColor=0769AD)
- 
+
 </div>
 </p>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pierre-Mendes)](https://github.com/ryo-ma/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pierre-Mendes)](https://github.com/ryo-ma/github-profile-trophy) 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pierremendess)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
@@ -61,4 +72,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pierre-Mendes&show_icons=true&count_private=true&theme=react)   
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pierre-Mendes) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pierre-Mendes)
