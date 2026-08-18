@@ -1,14 +1,15 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,10&height=220&section=header&text=Pierre%20Mendes%20Salatiel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%2F%20Full-Stack%20Software%20Engineer&descAlignY=55&descSize=20" alt="header" />
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='26'>](https://github.com/Pierre-Mendes) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='26'>](https://codepen.io/pierre-mendes)
 
-### Hi there 👋🏾, I'm Pierre
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=2CA5E0&center=true&vCenter=true&width=600&lines=Backend+%2F+Full-Stack+Software+Engineer;PHP+%C2%B7+Laravel+%C2%B7+Node.js+%C2%B7+TypeScript;Pleno+III+%40+EBANX+(via+Objective);University+Lecturer+%40+UniFACTHUS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=2CA5E0&center=true&vCenter=true&width=600&lines=PHP+%C2%B7+Laravel+%C2%B7+Node.js+%C2%B7+TypeScript;Pleno+III+%40+EBANX+(via+Objective);University+Lecturer+%40+UniFACTHUS" alt="Typing SVG" />
 
 ![Level](https://img.shields.io/badge/Level-Pleno%20III%20(Mid--level)-2CA5E0?style=for-the-badge)
 ![Experience](https://img.shields.io/badge/Experience-4%2B%20years-333333?style=for-the-badge)
 ![Based in](https://img.shields.io/badge/Uberaba%2C%20MG%20%E2%80%93%20Brazil-333333?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Pierre-Mendes&color=2CA5E0&style=for-the-badge&label=Profile+Views)
 
 <p>
 <a href="https://wa.me/5534991403055" target="_blank"> 
@@ -39,7 +40,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6,10&height=3" />
 
 ### 🚀 About me
 
@@ -52,7 +53,7 @@ Today I'm a **Pleno III (mid-level) Software Engineer** with **4+ years of exper
 - 📚 Postgraduate in Software Engineering (FAMEESP) and Bachelor in Information Systems (FACTHUS).
 - 🌱 Always exploring new tools and workflows — including AI-assisted development (Cursor, Claude Code) — to ship faster without giving up quality.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6,10&height=3" />
 
 ### 🛠️ Tech Stack
 
@@ -85,7 +86,7 @@ Today I'm a **Pleno III (mid-level) Software Engineer** with **4+ years of exper
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=ffffff)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6,10&height=3" />
 
 ### 📊 GitHub Stats
 
@@ -99,3 +100,17 @@ Today I'm a **Pleno III (mid-level) Software Engineer** with **4+ years of exper
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pierre-Mendes&theme=react&column=4&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pierre-Mendes/Pierre-Mendes/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pierre-Mendes/Pierre-Mendes/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake game animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Pierre-Mendes/Pierre-Mendes/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,10&height=120&section=footer" />
