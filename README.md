@@ -92,8 +92,7 @@ Today I'm a **Pleno III (mid-level) Software Engineer** with **4+ years of exper
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pierre-Mendes&show_icons=true&count_private=true&theme=react&cache_seconds=86400" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Mendes&layout=compact&theme=react&cache_seconds=86400" alt="Top Languages" />
+<img src="/github-metrics.svg" alt="GitHub metrics: stats and top languages" width="100%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pierre-Mendes&theme=react-dark&hide_border=true" alt="Contribution activity graph" width="100%" />
 
